@@ -26,3 +26,9 @@ Orchestration Layer maps out how these interactions take place, and handle thing
 
 # Nodes and Edges 
 Nodes indicate a component in the workflow, and edges represent paths in which messages can be exchanged. A node is built for the LLM, and another for the tools it has access to. Edges are added to define where information should travel and depending on what conditions! 
+
+
+## Our Project a multi-agent system that can compile financial information, including summaries, stock performance data, and accompanying visualizations of Fortune 500 companies.
+
+Lets start from one agent building for easily available wiqipedia api in python and search Microsoft 
+
