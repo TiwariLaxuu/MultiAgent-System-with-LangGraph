@@ -18,6 +18,7 @@ LangGraph is a part of the Langchain ecosystem, specifically designing for build
         # LLM != AGENT
 3. Agents = LLM + TOOLS
 
+# Tools 
 Tools can interact with the real-world, such as pulling real-time data from databases, APIs, documents, or search engines, triggering events in third party applications like Google Calender, or running code to perform calculation or analyze data. The capabilities of tools are really only bounded by what can be programmed into a function. 
 
 # Orchestration Layer : 
