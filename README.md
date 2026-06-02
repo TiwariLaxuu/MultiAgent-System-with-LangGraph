@@ -32,3 +32,5 @@ Nodes indicate a component in the workflow, and edges represent paths in which m
 
 Lets start from one agent building for easily available wiqipedia api in python and search Microsoft 
 
+Conditional Edges : The LLM receives a prompt, and it will make a call if it determines a tool call is required to complete a task. Also it checks to see if  tool call is requested by the LLM, and if it is, the graph routes to the tool node. 
+
